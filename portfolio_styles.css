@@ -10,7 +10,7 @@ body {
 }
 
 .leftMargin{
-	background: url(portfolio_images/field_trees.jpg);
+	background-image: url(portfolio_images/field_trees.jpg);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: left;
