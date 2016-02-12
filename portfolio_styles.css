@@ -10,7 +10,7 @@ body {
 }
 
 .leftMargin{
-	background: url(portfolio_images/field_trees.png);
+	background: <img source = "http://zekelong.github.io/portfolio_images/field_trees.png">;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: left;
